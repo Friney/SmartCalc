@@ -1,5 +1,5 @@
-#ifndef CPP3_SMART_CALC_DEPOSIT_CONTROLLER_H_
-#define CPP3_SMART_CALC_DEPOSIT_CONTROLLER_H_
+#ifndef SMART_CALC_DEPOSIT_CONTROLLER_H_
+#define SMART_CALC_DEPOSIT_CONTROLLER_H_
 
 #include <QDate>
 #include <vector>
@@ -27,4 +27,4 @@ class DepositPresenter {
   DepositModel *model_;
 };
 
-#endif  // CPP3_SMART_CALC_DEPOSIT_CONTROLLER_H_
+#endif  // SMART_CALC_DEPOSIT_CONTROLLER_H_

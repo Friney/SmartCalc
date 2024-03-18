@@ -1,5 +1,5 @@
-#ifndef CPP3_SMART_CALC_LOAN_MODEL_H_
-#define CPP3_SMART_CALC_LOAN_MODEL_H_
+#ifndef SMART_CALC_LOAN_MODEL_H_
+#define SMART_CALC_LOAN_MODEL_H_
 
 #include <cmath>
 #include <vector>
@@ -26,4 +26,4 @@ class LoanModel {
   void Reset();
 };
 
-#endif  // CPP3_SMART_CALC_LOAN_MODEL_H_
+#endif  // SMART_CALC_LOAN_MODEL_H_
