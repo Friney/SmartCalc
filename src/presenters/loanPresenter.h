@@ -1,5 +1,5 @@
-#ifndef CPP3_SMART_CALC_LOAN_CONTROLLER_H_
-#define CPP3_SMART_CALC_LOAN_CONTROLLER_H_
+#ifndef SMART_CALC_LOAN_CONTROLLER_H_
+#define SMART_CALC_LOAN_CONTROLLER_H_
 
 #include <QVector>
 #include <cmath>
@@ -23,4 +23,4 @@ class LoanPresenter {
   LoanModel* model_;
 };
 
-#endif  // CPP3_SMART_CALC_LOAN_CONTROLLER_H_
+#endif  // SMART_CALC_LOAN_CONTROLLER_H_

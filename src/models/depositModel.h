@@ -1,5 +1,5 @@
-#ifndef CPP3_SMART_CALC_DEPOSIT_MODEL_H_
-#define CPP3_SMART_CALC_DEPOSIT_MODEL_H_
+#ifndef SMART_CALC_DEPOSIT_MODEL_H_
+#define SMART_CALC_DEPOSIT_MODEL_H_
 
 #include <QDate>
 #include <vector>
@@ -54,4 +54,4 @@ class DepositModel {
                         double &sum_precent_accrued);
 };
 
-#endif  // CPP3_SMART_CALC_DEPOSIT_MODEL_H_
+#endif  // SMART_CALC_DEPOSIT_MODEL_H_

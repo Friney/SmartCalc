@@ -1,5 +1,5 @@
-#ifndef CPP3_SMART_CALC_CALCULATE_MODEL_H_
-#define CPP3_SMART_CALC_CALCULATE_MODEL_H_
+#ifndef SMART_CALC_CALCULATE_MODEL_H_
+#define SMART_CALC_CALCULATE_MODEL_H_
 
 #define _USE_MATH_DEFINES
 #include <cmath>
@@ -49,4 +49,4 @@ class CalculateModel {
   void StacksClearing();
 };
 
-#endif  // CPP3_SMART_CALC_CALCULATE_MODEL_H_
+#endif  // SMART_CALC_CALCULATE_MODEL_H_
